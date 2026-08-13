@@ -46,6 +46,13 @@ GitHub: ----------------------------------------- Aethernox
 <sub><code>! Building: Machines that learn | Systems that think | Intelligence that moves !</code></sub>
 </pre>
 
+<div align="center">
+    <img src="./line.jpeg"
+         width="700"
+         height="900"
+         alt="Additional image"/>
+</div>
+
 </td>
 
 </tr>
