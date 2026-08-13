@@ -3,60 +3,47 @@
 <table width="100%" cellspacing="0" cellpadding="0" border="0">
 <tr>
 
-<td width="43%" align="center" valign="top">
+<td width="55%" align="center" valign="top">
 
 <br>
 
 <img src="./image.jpeg"
-     width="360"
+     width="560"
      alt="ASCII portrait"/>
-
-<br><br>
-
+     
 <strong>Aishwary Vishwakarma</strong><br>
-<code>AETHERNOX</code>
+<code>NIT DELHI</code>
 
 </td>
 
-<td width="57%" valign="top">
+<td width="45%" valign="top">
+
 
 <pre>
-aishwary ─────────────────────────────────────────
+Aethernox@Aishwary ────────────────────────────────────────
 
-OS:                  Linux, Windows
-Role:                AI/ML • Robotics • Software
-Focus:               Computer Vision, NLP, Robotics
-Languages:           Python, C++, C, Java, Flutter
-Frameworks:          PyTorch, FastAPI, ROS 2
-Tools:               Git, Docker, Gazebo, Jupyter
+OS: ------------------------- Windows 11, Android 14, Linux
+Uptime: ------------------------ 5 Years, 6 Months, 12 Days 
+Host: ------------------------------------------------- Leo
+Kernel: ------- Microsoft Windows [Version 10.0.26200.9168]
 
-Projects ─────────────────────────────────────────
+Experience: ---- @Knowel.Ai @CosmoLife @GDSE @Kinetics @TNP
+Role: --------------- AI/ML {AI Model Engineer && Robotics}
+Focus: ----------- NLP • Gen AI • RL & DL • Computer Vision
+Languages: --------------------------- Python, C++, C, Java
+Tools: --------------------- Git, Docker, AWS, GCP, Jupyter
 
-Robotics:            Quadruped / Robo Dog
-                     Inverse Kinematics
-                     Servo Control & Calibration
-                     Gazebo / ROS 2 Simulation
+Interests: ----------- Chess, Reading, Travel & Exploration 
 
-AI / ML:             Computer Vision
-                     NLP & Transformers
-                     Speaker Diarization
-                     ML Infrastructure
+Contact ──────────────────────────────────────────────────
 
-Development ─────────────────────────────────────
+Email.Personal: -------------------- aethernox.in@gmail.com
+LinkedIn: ------------------------------ aishwary-aethernox
+Discord: ------------------------------------- aethernox.in
+GitHub: ----------------------------------------- Aethernox
 
-Backend:             FastAPI, Python
-Deployment:           Docker, Docker Compose
-Cloud:                GCP
-Frontend:             Flutter / Web
-
-Contact ──────────────────────────────────────────
-
-GitHub:              AETHERNOX
-College:             NIT Delhi
-
-──────────────────────────────────────────────────
-Building intelligent systems where
-AI, software and robotics meet.
+──────────────────────────────────────────────────────────
+<sub><code>! Building: Machines that learn | Systems that think | Intelligence that moves !</code></sub>
 </pre>
 
 </td>
